@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Metropolis]]></title>
+        <description><![CDATA[Metropolis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 May 2016 23:34:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LEGENDS OF HOLLYWOOD]]></title>
+            <description><![CDATA[<article><h1>LEGENDS OF HOLLYWOOD</h1><p>Ver descripción del artículo + Consulta la descripción del artículo para obtener más información sobre los detalles de envío Te han sobrepujado. No dejes que se te escape: puja otra vez. Has sido sobrepujado por una puja automática de otro pujador. Eres el máximo pujador de este artículo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37b62fc7f6b1d163f8c8a4fd40124aef852c83ef.jpg"></article>]]></description>
+            <link>http://www.ebay.es/itm/2010-2011-SILVER-LEGENDS-OF-HOLLYWOOD-6-COIN-SET-MOVIE-REEL-Cook-Islands-/272215755705?ssPageName=STRK:MESE:IT</link>
+            <guid isPermaLink="false">26dd9f64-6491-4014-acf0-05c11a514079</guid>
+            <pubDate>Wed, 04 May 2016 23:34:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
