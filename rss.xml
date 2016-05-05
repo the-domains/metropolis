@@ -4,8 +4,15 @@
         <description><![CDATA[Metropolis Gallery]]></description>
         <link>https://thegrid.ai/metropolis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 08:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 08:07:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metropolis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b947ba6ce9344488ed8a9538da979e6ee4dca77.jpg" alt="Deed of Contract - The Hobbit " title="">]]></description>
+            <link>http://www.noblecollection.com/ItemImages/Large/PRP%20HB%201295.jpg</link>
+            <guid isPermaLink="false">64f1de4c-b00b-4991-b3c4-c37c8c2cfb80</guid>
+            <pubDate>Thu, 05 May 2016 08:07:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/445e10e0-2608-41f4-9465-b3ef334a79fb.jpg" alt="Tokyo Disneyland 20th Anniversary Coffret" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/metropolis/pau-gasol-the-best-spanish-basketball-player-ever-currentl/index.html</link>
             <guid isPermaLink="false">ca1bbc37-d64c-4469-83d9-98350a45ae63</guid>
             <pubDate>Thu, 05 May 2016 08:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b947ba6ce9344488ed8a9538da979e6ee4dca77.jpg" alt="Deed of Contract - The Hobbit " title="">]]></description>
-            <link>http://www.noblecollection.com/ItemImages/Large/PRP%20HB%201295.jpg</link>
-            <guid isPermaLink="false">64f1de4c-b00b-4991-b3c4-c37c8c2cfb80</guid>
-            <pubDate>Thu, 05 May 2016 01:24:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
