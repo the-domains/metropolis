@@ -6,12 +6,13 @@ isBasedOnUrl: 'http://www.noblecollection.com/ItemImages/Large/PRP%20HB%201295.j
 inLanguage: null
 keywords: []
 description: The Hobbit Deed of Contract parchment by The Noble Collection
-datePublished: '2016-05-05T01:24:45.764Z'
-dateModified: '2016-05-05T01:24:37.546Z'
+datePublished: '2016-05-05T08:07:48.150Z'
+dateModified: '2016-05-05T01:26:40.939Z'
 author:
   - name: ''
     url: ''
 title: ''
+sourcePath: _posts/2016-05-05-the-hobbit-deed-of-contract-parchment-by-the-noble-collectio.md
 authors: []
 publisher:
   name: noblecollection.com
@@ -19,7 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-the-hobbit-deed-of-contract-parchment-by-the-noble-collectio.md
 _context: 'http://schema.org'
 _type: Article
 
