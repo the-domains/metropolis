@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Pau Gasol, The best Spanish basketball player ever. Currently playing for the Chicago Bulls, the power forward/center is one of the most respected players in the NBA. He won two Olympic silver medals with the Spanish national team, back-to-back championships with the Los Angeles Lakers in 2009-2010, and is a five-time NBA All-Star.'
-datePublished: '2016-05-05T00:37:29.436Z'
-dateModified: '2016-05-05T00:36:59.101Z'
+datePublished: '2016-05-05T01:04:48.024Z'
+dateModified: '2016-05-05T00:53:46.131Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-05-pau-gasol-the-best-spanish-basketball-player-ever-currentl.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-pau-gasol-the-best-spanish-basketball-player-ever-currentl.md
 url: pau-gasol-the-best-spanish-basketball-player-ever-currentl/index.html
 _type: Article
 
