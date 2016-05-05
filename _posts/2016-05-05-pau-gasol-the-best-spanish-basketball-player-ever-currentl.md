@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Pau Gasol, The best Spanish basketball player ever. Currently playing for the Chicago Bulls, the power forward/center is one of the most respected players in the NBA. He won two Olympic silver medals with the Spanish national team, back-to-back championships with the Los Angeles Lakers in 2009-2010, and is a five-time NBA All-Star.'
-datePublished: '2016-05-05T01:04:48.024Z'
-dateModified: '2016-05-05T00:53:46.131Z'
+datePublished: '2016-05-05T01:09:11.538Z'
+dateModified: '2016-05-05T01:04:58.437Z'
 title: ''
 author:
   - name: ''
