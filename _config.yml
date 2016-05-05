@@ -1,6 +1,6 @@
 name: Metropolis
 favicon: null
-layout_spectrum: 0.78184
+layout_spectrum: 0.86066
 typography_spectrum: 0.2765726794023067
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#bbb4a2'
     - '#7b625d'
     - '#9b9482'
-  brandStrength: 0.5625
-  lightness: 0.3931955015286803
-  saturation: 0.3490336933173239
-  rhythmicContrast: 0.11080105369910598
+  brandStrength: 0.25
+  lightness: 0.6875
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
